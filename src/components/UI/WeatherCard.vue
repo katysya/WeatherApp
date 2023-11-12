@@ -3,7 +3,7 @@ const props = defineProps(['element']);
 
 const card = {
   temperature: '20°',
-  img: '_nuxt/src/assets/images/Weather/img.png',
+  img: '_nuxt/src/assets/images/Weather/Moon.png',
   data: ['H:21°', 'L:-19°'],
   city: 'Toronto',
   weather: 'Fast Wind',
